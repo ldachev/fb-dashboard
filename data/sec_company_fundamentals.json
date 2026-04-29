@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "title": "Givaudan Peer Competitive Intelligence Dashboard",
+    "source": "SEC EDGAR companyfacts API, latest annual 10-K facts",
+    "prepared_by": "Lyubomir Dachev",
+    "school": "Fordham Gabelli School of Business",
+    "generated_on": "2026-04-29"
+  },
+  "companies": [
+    {
+      "company": "International Flavors & Fragrances",
+      "ticker": "IFF",
+      "sector": "Fragrance & Ingredients",
+      "why": "Closest U.S.-listed Givaudan peer",
+      "cik": "0000051253",
+      "filing_date": "2026-02-27",
+      "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 10890.0,
+        "revenue_growth_pct": -5.2,
+        "net_margin_pct": 3.1,
+        "roa_pct": 1.2,
+        "debt_to_equity": 0.75,
+        "opex_ratio_pct": 16.8
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 11656.0,
+          "revenue_growth_pct": 129.3,
+          "net_margin_pct": 2.9,
+          "roa_pct": 0.9,
+          "debt_to_equity": 0.56,
+          "opex_ratio_pct": 15.0
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 12440.0,
+          "revenue_growth_pct": 6.7,
+          "net_margin_pct": 2.7,
+          "roa_pct": 1.0,
+          "debt_to_equity": 0.64,
+          "opex_ratio_pct": 14.2
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 11479.0,
+          "revenue_growth_pct": -7.7,
+          "net_margin_pct": 3.0,
+          "roa_pct": 1.1,
+          "debt_to_equity": 0.75,
+          "opex_ratio_pct": 15.6
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 11484.0,
+          "revenue_growth_pct": 0.0,
+          "net_margin_pct": 3.0,
+          "roa_pct": 1.2,
+          "debt_to_equity": 0.75,
+          "opex_ratio_pct": 17.4
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 10890.0,
+          "revenue_growth_pct": -5.2,
+          "net_margin_pct": 3.1,
+          "roa_pct": 1.2,
+          "debt_to_equity": null,
+          "opex_ratio_pct": 16.8
+        }
+      ],
+      "analysis": "International Flavors & Fragrances shows revenue of $10890.0M, growth of -5.2%, and net margin of 3.1%. Its biggest strength is its role as a closest u.s.-listed givaudan peer, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at 0.75x D/E, and operating intensity at 16.8% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    },
+    {
+      "company": "Sensient Technologies",
+      "ticker": "SXT",
+      "sector": "Specialty Ingredients",
+      "why": "Flavors, colors, extracts, and personal care ingredients",
+      "cik": "0000310142",
+      "filing_date": "2026-02-13",
+      "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 1612.1,
+        "revenue_growth_pct": 3.5,
+        "net_margin_pct": 8.3,
+        "roa_pct": 6.7,
+        "debt_to_equity": 0.61,
+        "opex_ratio_pct": 20.6
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 1380.3,
+          "revenue_growth_pct": 3.6,
+          "net_margin_pct": 8.6,
+          "roa_pct": 6.8,
+          "debt_to_equity": 0.55,
+          "opex_ratio_pct": 20.6
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 1437.0,
+          "revenue_growth_pct": 4.1,
+          "net_margin_pct": 9.8,
+          "roa_pct": 8.1,
+          "debt_to_equity": 0.69,
+          "opex_ratio_pct": 20.3
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 1456.5,
+          "revenue_growth_pct": 1.4,
+          "net_margin_pct": 6.4,
+          "roa_pct": 4.7,
+          "debt_to_equity": 0.66,
+          "opex_ratio_pct": 21.0
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 1557.2,
+          "revenue_growth_pct": 6.9,
+          "net_margin_pct": 8.0,
+          "roa_pct": 6.2,
+          "debt_to_equity": 0.6,
+          "opex_ratio_pct": 20.3
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 1612.1,
+          "revenue_growth_pct": 3.5,
+          "net_margin_pct": 8.3,
+          "roa_pct": 6.7,
+          "debt_to_equity": null,
+          "opex_ratio_pct": 20.6
+        }
+      ],
+      "analysis": "Sensient Technologies shows revenue of $1612.1M, growth of 3.5%, and net margin of 8.3%. Its biggest strength is its role as a flavors, colors, extracts, and personal care ingredients, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at 0.61x D/E, and operating intensity at 20.6% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    },
+    {
+      "company": "Est\u00e9e Lauder",
+      "ticker": "EL",
+      "sector": "Prestige Beauty",
+      "why": "Prestige beauty and fragrance demand benchmark",
+      "cik": "0001001250",
+      "filing_date": "2025-08-20",
+      "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 14326.0,
+        "revenue_growth_pct": -8.2,
+        "net_margin_pct": 4.8,
+        "roa_pct": 3.4,
+        "debt_to_equity": 0.28,
+        "opex_ratio_pct": 79.4
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 16215.0,
+          "revenue_growth_pct": 13.4,
+          "net_margin_pct": 4.2,
+          "roa_pct": 3.8,
+          "debt_to_equity": 0.01,
+          "opex_ratio_pct": 60.2
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 17737.0,
+          "revenue_growth_pct": 9.4,
+          "net_margin_pct": 3.9,
+          "roa_pct": 3.1,
+          "debt_to_equity": 0.05,
+          "opex_ratio_pct": 57.9
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 15910.0,
+          "revenue_growth_pct": -10.3,
+          "net_margin_pct": 4.3,
+          "roa_pct": 3.3,
+          "debt_to_equity": 0.18,
+          "opex_ratio_pct": 61.8
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 15608.0,
+          "revenue_growth_pct": -1.9,
+          "net_margin_pct": 4.4,
+          "roa_pct": 3.2,
+          "debt_to_equity": 0.09,
+          "opex_ratio_pct": 65.4
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 14326.0,
+          "revenue_growth_pct": -8.2,
+          "net_margin_pct": 4.8,
+          "roa_pct": 3.4,
+          "debt_to_equity": 1.56,
+          "opex_ratio_pct": 79.4
+        }
+      ],
+      "analysis": "Est\u00e9e Lauder shows revenue of $14326.0M, growth of -8.2%, and net margin of 4.8%. Its biggest strength is its role as a prestige beauty and fragrance demand benchmark, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at 0.28x D/E, and operating intensity at 79.4% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    },
+    {
+      "company": "Coty",
+      "ticker": "COTY",
+      "sector": "Beauty & Fragrance",
+      "why": "Fragrance-heavy beauty company",
+      "cik": "0001024305",
+      "filing_date": "2025-08-21",
+      "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 5892.9,
+        "revenue_growth_pct": -3.7,
+        "net_margin_pct": -6.2,
+        "roa_pct": -3.1,
+        "debt_to_equity": 1.12,
+        "opex_ratio_pct": 52.7
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 4629.9,
+          "revenue_growth_pct": -1.9,
+          "net_margin_pct": -4.3,
+          "roa_pct": -1.5,
+          "debt_to_equity": 1.9,
+          "opex_ratio_pct": 51.0
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 5304.4,
+          "revenue_growth_pct": 14.6,
+          "net_margin_pct": 4.9,
+          "roa_pct": 2.1,
+          "debt_to_equity": 1.41,
+          "opex_ratio_pct": 54.3
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 5554.1,
+          "revenue_growth_pct": 4.7,
+          "net_margin_pct": 9.1,
+          "roa_pct": 4.0,
+          "debt_to_equity": 1.11,
+          "opex_ratio_pct": 50.7
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 6118.0,
+          "revenue_growth_pct": 10.2,
+          "net_margin_pct": 1.5,
+          "roa_pct": 0.7,
+          "debt_to_equity": 1.0,
+          "opex_ratio_pct": 51.7
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 5892.9,
+          "revenue_growth_pct": -3.7,
+          "net_margin_pct": -6.2,
+          "roa_pct": -3.1,
+          "debt_to_equity": 1.12,
+          "opex_ratio_pct": 52.7
+        }
+      ],
+      "analysis": "Coty shows revenue of $5892.9M, growth of -3.7%, and net margin of -6.2%. Its biggest strength is its role as a fragrance-heavy beauty company, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at 1.12x D/E, and operating intensity at 52.7% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    },
+    {
+      "company": "Inter Parfums",
+      "ticker": "IPAR",
+      "sector": "Fragrance Pure-Play",
+      "why": "Licensed fragrance pure-play",
+      "cik": "0000822663",
+      "filing_date": "2026-03-10",
+      "revenue_tag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 1488.5,
+        "revenue_growth_pct": 2.5,
+        "net_margin_pct": 11.3,
+        "roa_pct": 12.3,
+        "debt_to_equity": 0.22,
+        "opex_ratio_pct": 45.5
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 879.5,
+          "revenue_growth_pct": 63.2,
+          "net_margin_pct": 9.9,
+          "roa_pct": 9.8,
+          "debt_to_equity": 0.26,
+          "opex_ratio_pct": 46.2
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 1086.7,
+          "revenue_growth_pct": 23.6,
+          "net_margin_pct": 11.1,
+          "roa_pct": 10.6,
+          "debt_to_equity": 0.29,
+          "opex_ratio_pct": 45.3
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 1317.7,
+          "revenue_growth_pct": 21.3,
+          "net_margin_pct": 11.6,
+          "roa_pct": 11.7,
+          "debt_to_equity": 0.23,
+          "opex_ratio_pct": 44.6
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 1452.3,
+          "revenue_growth_pct": 10.2,
+          "net_margin_pct": 11.3,
+          "roa_pct": 12.0,
+          "debt_to_equity": 0.22,
+          "opex_ratio_pct": 44.7
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 1488.5,
+          "revenue_growth_pct": 2.5,
+          "net_margin_pct": 11.3,
+          "roa_pct": 12.3,
+          "debt_to_equity": null,
+          "opex_ratio_pct": 45.5
+        }
+      ],
+      "analysis": "Inter Parfums shows revenue of $1488.5M, growth of 2.5%, and net margin of 11.3%. Its biggest strength is its role as a licensed fragrance pure-play, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at 0.22x D/E, and operating intensity at 45.5% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    },
+    {
+      "company": "Bath & Body Works",
+      "ticker": "BBWI",
+      "sector": "Consumer Fragrance",
+      "why": "Consumer fragrance and body-care retail benchmark",
+      "cik": "0000701985",
+      "filing_date": "2026-03-12",
+      "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "metrics": {
+        "fiscal_year": 2025,
+        "revenue_m": 7291.0,
+        "revenue_growth_pct": -0.2,
+        "net_margin_pct": 12.0,
+        "roa_pct": 18.0,
+        "debt_to_equity": -2.8,
+        "opex_ratio_pct": 28.3
+      },
+      "annual_metrics": [
+        {
+          "fiscal_year": 2021,
+          "revenue_m": 7882.0,
+          "revenue_growth_pct": 22.5,
+          "net_margin_pct": 10.7,
+          "roa_pct": 14.0,
+          "debt_to_equity": -3.2,
+          "opex_ratio_pct": 23.4
+        },
+        {
+          "fiscal_year": 2022,
+          "revenue_m": 7560.0,
+          "revenue_growth_pct": -4.1,
+          "net_margin_pct": 17.6,
+          "roa_pct": 24.3,
+          "debt_to_equity": -2.2,
+          "opex_ratio_pct": 24.9
+        },
+        {
+          "fiscal_year": 2023,
+          "revenue_m": 7429.0,
+          "revenue_growth_pct": -1.7,
+          "net_margin_pct": 17.9,
+          "roa_pct": 24.4,
+          "debt_to_equity": -2.7,
+          "opex_ratio_pct": 26.3
+        },
+        {
+          "fiscal_year": 2024,
+          "revenue_m": 7307.0,
+          "revenue_growth_pct": -1.6,
+          "net_margin_pct": 10.9,
+          "roa_pct": 16.4,
+          "debt_to_equity": -2.8,
+          "opex_ratio_pct": 26.9
+        },
+        {
+          "fiscal_year": 2025,
+          "revenue_m": 7291.0,
+          "revenue_growth_pct": -0.2,
+          "net_margin_pct": 12.0,
+          "roa_pct": 18.0,
+          "debt_to_equity": null,
+          "opex_ratio_pct": 28.3
+        }
+      ],
+      "analysis": "Bath & Body Works shows revenue of $7291.0M, growth of -0.2%, and net margin of 12.0%. Its biggest strength is its role as a consumer fragrance and body-care retail benchmark, which helps frame Givaudan's position across ingredients, fragrance, and beauty demand. The key risk is whether profitability, leverage at -2.80x D/E, and operating intensity at 28.3% OpEx can stay balanced through consumer and input-cost cycles. In industry context, the peer set separates companies with durable formulation or brand advantages from companies that rely more heavily on cyclical beauty spending."
+    }
+  ],
+  "peer_averages": {
+    "revenue_m": 6916.75,
+    "revenue_growth_pct": -1.88,
+    "net_margin_pct": 5.55,
+    "roa_pct": 6.42,
+    "debt_to_equity": 0.03,
+    "opex_ratio_pct": 40.55
+  }
+}
