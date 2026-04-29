@@ -10,7 +10,7 @@
     {
       "company": "International Flavors & Fragrances",
       "ticker": "IFF",
-      "sector": "Fragrance & Ingredients",
+      "sector": "Ingredients & Fragrance",
       "why": "Closest U.S.-listed Givaudan peer",
       "cik": "0000051253",
       "filing_date": "2026-02-27",
@@ -76,7 +76,7 @@
     {
       "company": "Sensient Technologies",
       "ticker": "SXT",
-      "sector": "Specialty Ingredients",
+      "sector": "Ingredients & Fragrance",
       "why": "Flavors, colors, extracts, and personal care ingredients",
       "cik": "0000310142",
       "filing_date": "2026-02-13",
@@ -142,7 +142,7 @@
     {
       "company": "Est\u00e9e Lauder",
       "ticker": "EL",
-      "sector": "Prestige Beauty",
+      "sector": "Beauty Brands",
       "why": "Prestige beauty and fragrance demand benchmark",
       "cik": "0001001250",
       "filing_date": "2025-08-20",
@@ -208,7 +208,7 @@
     {
       "company": "Coty",
       "ticker": "COTY",
-      "sector": "Beauty & Fragrance",
+      "sector": "Beauty Brands",
       "why": "Fragrance-heavy beauty company",
       "cik": "0001024305",
       "filing_date": "2025-08-21",
@@ -274,7 +274,7 @@
     {
       "company": "Inter Parfums",
       "ticker": "IPAR",
-      "sector": "Fragrance Pure-Play",
+      "sector": "Beauty Brands",
       "why": "Licensed fragrance pure-play",
       "cik": "0000822663",
       "filing_date": "2026-03-10",
@@ -340,7 +340,7 @@
     {
       "company": "Bath & Body Works",
       "ticker": "BBWI",
-      "sector": "Consumer Fragrance",
+      "sector": "Specialty Retail",
       "why": "Consumer fragrance and body-care retail benchmark",
       "cik": "0000701985",
       "filing_date": "2026-03-12",

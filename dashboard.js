@@ -4,12 +4,9 @@ const fmtRatio = (value) => `${Number(value).toFixed(2)}x`;
 const fmtValue = (value, formatter) => Number.isFinite(value) ? formatter(value) : "N/A";
 
 const sectorColors = {
-  "Fragrance & Ingredients": "#4f46e5",
-  "Specialty Ingredients": "#0d9488",
-  "Prestige Beauty": "#b45309",
-  "Beauty & Fragrance": "#be185d",
-  "Fragrance Pure-Play": "#7c3aed",
-  "Consumer Fragrance": "#2563eb",
+  "Ingredients & Fragrance": "#4f46e5",
+  "Beauty Brands": "#be185d",
+  "Specialty Retail": "#0d9488",
 };
 
 const metricMeta = {
@@ -324,8 +321,8 @@ function renderMarketSummary(companies) {
   const fastest = maxBy(companies, "revenue_growth_pct");
   const largest = maxBy(companies, "revenue_m");
   const mostLevered = maxBy(companies, "debt_to_equity");
-  const ingredientPeers = companies.filter((company) => company.sector.includes("Ingredients"));
-  const beautyPeers = companies.filter((company) => !company.sector.includes("Ingredients"));
+  const ingredientPeers = companies.filter((company) => company.sector === "Ingredients & Fragrance");
+  const beautyPeers = companies.filter((company) => company.sector === "Beauty Brands");
   const ingredientMargin = averageMetric(ingredientPeers, "net_margin_pct");
   const beautyMargin = averageMetric(beautyPeers, "net_margin_pct");
   document.getElementById("market-summary").textContent =

@@ -53,12 +53,12 @@ class Company:
 
 
 COMPANIES = [
-    Company("International Flavors & Fragrances", "IFF", "Fragrance & Ingredients", "Closest U.S.-listed Givaudan peer"),
-    Company("Sensient Technologies", "SXT", "Specialty Ingredients", "Flavors, colors, extracts, and personal care ingredients"),
-    Company("Estée Lauder", "EL", "Prestige Beauty", "Prestige beauty and fragrance demand benchmark"),
-    Company("Coty", "COTY", "Beauty & Fragrance", "Fragrance-heavy beauty company"),
-    Company("Inter Parfums", "IPAR", "Fragrance Pure-Play", "Licensed fragrance pure-play"),
-    Company("Bath & Body Works", "BBWI", "Consumer Fragrance", "Consumer fragrance and body-care retail benchmark"),
+    Company("International Flavors & Fragrances", "IFF", "Ingredients & Fragrance", "Closest U.S.-listed Givaudan peer"),
+    Company("Sensient Technologies", "SXT", "Ingredients & Fragrance", "Flavors, colors, extracts, and personal care ingredients"),
+    Company("Estée Lauder", "EL", "Beauty Brands", "Prestige beauty and fragrance demand benchmark"),
+    Company("Coty", "COTY", "Beauty Brands", "Fragrance-heavy beauty company"),
+    Company("Inter Parfums", "IPAR", "Beauty Brands", "Licensed fragrance pure-play"),
+    Company("Bath & Body Works", "BBWI", "Specialty Retail", "Consumer fragrance and body-care retail benchmark"),
 ]
 
 
